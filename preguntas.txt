@@ -1,0 +1,19 @@
+1.En tus palabras, ¿Qué es internet?
+    El inernet es una gran red interconectada como telerañas en diferentes compoutadoras del mundo consiste en servidores que proveen informacion.
+2.Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+    El medio de tranmision constituye el soporte fisico a traves del cual emisor y receptor pueden comuunicarse el sistema de transmision de internet.
+3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+    Internet funciona porque los estándares abiertos permiten que todas las redes se conecten a todas las redes. Esto es lo que hace posible que cualquiera pueda crear contenido, ofrecer servicios y vender productos sin necesitar el permiso de una autoridad central.
+4.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+    Tu al usar stpotify estas entrando al servidor del otro (los de spotify), ellos te dan chance de entrar en el servidor 
+5.Describe los protocolos que existen en internet, en específico HTTP y HTML
+    HTTP, de sus siglas en inglés: "Hypertext Transfer Protocol", es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos, como pueden ser documentos HTML. Es la base de cualquier intercambio de datos en la Web, y un protocolo de estructura cliente-servidor, esto quiere decir que una petición de datos es iniciada por el elemento que recibirá los datos (el cliente), normalmente un navegador Web. Así, una página web completa resulta de la unión de distintos sub-documentos recibidos, como, por ejemplo: un documento que especifique el estilo de maquetación de la página web (CSS), el texto, las imágenes, vídeos, scripts, etc...   
+6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+    El término encriptación (o cifrado) abarca varios procedimientos, métodos y enfoques para proteger los datos confidenciales del acceso de terceros y realizar comunicaciones digitales seguras entre dos o más usuarios.
+    Métodos y enfoques para proteger los datos confidenciales del acceso de terceros y realizar comunicaciones digitales seguras entre dos o más usuarios.
+7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+8.¿Cómo funciona la búsqueda de google?
+    El cibercrimen es cualquier delito que se realice en línea o que ocurra principalmente en línea. Abarca desde el robo de identidad y otras violaciones de seguridad hasta actividades como la pornografía vengativa, el acoso cibernético, el hostigamiento, el abuso e, incluso, la explotación sexual infantil. Los terroristas cada vez participan más en Internet y trasladan los crímenes más aterradores al espacio cibernético.
+8.¿Cómo funciona la búsqueda de google?
+Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
+Jose Pablo Reynoso y Eugenio Genaro Gutierrez 12-2
